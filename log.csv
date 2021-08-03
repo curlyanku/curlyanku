@@ -1,0 +1,9 @@
+C:\Users\kohinoor\Desktop\Practicescript.sh
+C:\Users\kohinoor\Desktop\Practicescript.sh
+
+write_csv(){
+    echo \"$1\",\"$2\",\"$3\">> log.csv
+}
+write_csv $my name $Ankita N Banubakode
+write_csv $my mail id $ankitabanubako79994@gmail.com
+write_csv $my hobbies $cooking, and exploring new thingC:\Users\kohinoor\Desktop\Practicescript.shC:\Users\kohinoor\Desktop\Practicescript.sh
